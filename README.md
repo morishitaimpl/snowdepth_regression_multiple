@@ -1,6 +1,6 @@
 # snowdepth_regression_multiple
 
-重回帰分析を用いた積雪深の予測をするモデルです。
+線形重回帰分析を用いた積雪深の予測をするモデルです。
 
 このソースコードを実行するのに必要なライブラリは次のようにインストールしてください
 pip install -r library_install.txt
